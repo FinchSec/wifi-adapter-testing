@@ -1,0 +1,21 @@
+Distributor ID: Kali
+Description:    Kali GNU/Linux Rolling
+Release:        2023.1
+Codename:       kali-rolling
+
+Linux kali 6.1.0-kali5-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.12-1kali2 (2023-02-23) x86_64 GNU/Linux
+Regulatory Domain set to US, see 'iw reg get' for details
+Detected VM using dmi_info
+This appears to be a Qemu/KVM Virtual Machine
+If your system supports VT-d, it may be possible to use PCI devices
+If your system does not support VT-d, you can only use USB wifi cards
+
+K indicates driver is from 6.1.0-kali5-amd64
+V indicates driver comes directly from the vendor, almost certainly a bad thing
+S indicates driver comes from the staging tree, these drivers are meant for reference not actual use, BEWARE
+? indicates we do not know where the driver comes from... report this
+
+
+X[PHY]Interface         Driver[Stack]-FirmwareRev               Chipset                                                    Extended Info
+
+K[phy0]wlan0mon         mt7921u[mac80211]-____010000-20230117170942     MediaTek Inc. Wireless_Device                      mode monitor

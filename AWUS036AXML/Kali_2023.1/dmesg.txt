@@ -1,0 +1,9 @@
+usb 4-2: reset SuperSpeed USB device number 2 using xhci_hcd
+bluetooth hci0: firmware: direct-loading firmware mediatek/BT_RAM_CODE_MT7961_1_2_hdr.bin
+Bluetooth: hci0: Device setup in 123596 usecs
+Bluetooth: hci0: HCI Enhanced Setup Synchronous Connection command is advertised, but not supported.
+usbcore: registered new interface driver mt7921u
+mt7921u 4-2:1.3: firmware: direct-loading firmware mediatek/WIFI_MT7961_patch_mcu_1_2_hdr.bin
+mt7921u 4-2:1.3: HW/SW Version: 0x8a108a10, Build Time: 20230117170855a
+mt7921u 4-2:1.3: firmware: direct-loading firmware mediatek/WIFI_RAM_CODE_MT7961_1.bin
+mt7921u 4-2:1.3: WM Firmware Version: ____010000, Build Time: 20230117170942
